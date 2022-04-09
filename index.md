@@ -26,3 +26,5 @@ for the codeblock
 This is a test for making changes on visual studio code.
 
 [Lab Report 1](https://gosui.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+[Lab Report 1 Part 2](lab-report-1-week-2.html)
