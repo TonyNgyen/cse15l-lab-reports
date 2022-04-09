@@ -3,7 +3,7 @@
 *Hi*, this is a test for **index.md**
 
 ##Tests
-[Link] (https://canvas.ucsd.edu)
+[Link](https://canvas.ucsd.edu)
 ![Image](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
 > This is Geisel Library
 
@@ -13,7 +13,7 @@
 1. There are 7 colleges in UCSD
 2. Sixth College is the best one
 
-Horizontal rule:
+Horizontal line:
 ---
 `Hello World`
 
