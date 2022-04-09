@@ -7,8 +7,8 @@
 ![Image](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
 > This is Geisel Library
 
-*It is the library of UCSD
-*It is near library walk
+* It is the library of UCSD
+* It is near library walk
 
 1. There are 7 colleges in UCSD
 2. Sixth College is the best one
