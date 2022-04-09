@@ -1,9 +1,9 @@
-#index.md
+# index.md
 
 *Hi*, this is a test for **index.md**
 
-##Tests
-[Link](https://canvas.ucsd.edu)
+## Tests
+[This is a test link that sends you to Canvas](https://canvas.ucsd.edu)
 ![Image](https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg)
 > This is Geisel Library
 
