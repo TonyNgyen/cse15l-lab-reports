@@ -67,4 +67,5 @@ The final part of this report will concern how to run multiple commands in one l
 * Semicolons can be used to run multiple commands on the same terminal line
 
 Attached below is an example of how to use these concepts.
-![Image](lines.png)
+![Image](part6.png)
+> The example below shows how I used a combination of quotes and semicolons to transfer a file from my local computer to the server, and then list the home directory on the remote server all in one line.
