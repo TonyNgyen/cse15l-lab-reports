@@ -1,4 +1,4 @@
-# Lab 2 Week 4
+# Lab Report 2 Week 4
 
 Hi to whoever is reading this! My name is Tony Nguyen, and this is my second lab report for CSE15L. In this lab report, I will be walking through the changes I made to MarkdownParse. This will include the test files that were failure inducing, the symptoms it caused, the bugs that were causing it, and the failure inducing input. The following test files that I will be examining test file [2](test-file2.md), [6](test-file6.md), and [8](test-file8.md). The changes made are in the order of file 8, 6, and then 2.
 
